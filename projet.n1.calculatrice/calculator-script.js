@@ -1,0 +1,1 @@
+$('#head').css('color','red')
