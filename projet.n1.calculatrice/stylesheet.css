@@ -1,0 +1,9 @@
+div {
+	color:floralwhite;
+	font-family:Arial;
+	font-size:50px;
+	margin-left: 50px;
+}
+button:hover {
+	background-color: lightcyan;
+}
